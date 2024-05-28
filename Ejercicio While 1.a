@@ -1,0 +1,8 @@
+#Ejercicio 2:
+# Crear una variable, inicializar en uno y mostrar hasta 10
+
+var = 1
+while var<=10:
+    print(var)
+    var=var+1
+    
